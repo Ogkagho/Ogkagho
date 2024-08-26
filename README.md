@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ogkagho
-- 👀 I’m interested in computer animation, movies, games, and learning programming.
+- 👀 I’m interested in computer animation, movies, games, and Cs.
 - 🌱 I’m currently learning C++, scheme(i know old school) and Python.
 - 💞️ I’m looking to collaborate on various projects and open to new opportunities.
 - 📫 How to reach me: [ogkagho@icloud.com]
