@@ -6,10 +6,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
 
-- 💼 I'm looking for a job: Currently seeking opportunities to gain hands-on experience in software development. I have intermediate proficiency in Python and am working to enhance my skills in C++. Although I'm still refreshing my knowledge of C++ syntax, I'm eager to learn and take on new challenges.
+- 💼 I'm looking for a job: Currently seeking opportunities to gain hands-on experience in software development. I have intermediate proficiency in Python and am working to enhance my skills in C++. I'm eager to learn and take on new challenges.
 
 Skills:
-Programming Languages: Python, C++ (intermediate)
+Programming Languages: Python, C++
 Projects: Check out my repositories for examples of my work and projects.
 Learning: Actively improving my coding skills and looking to expand into areas like software engineering, data analysis, and game development.
 My Goal:
