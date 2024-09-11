@@ -1,16 +1,19 @@
-- 👋 Hi, I’m @Ogkagho
-- 👀 I’m interested in computer animation, movies, games, and Cs.
-- 🌱 I’m currently learning C++, scheme(i know old school) and Python.
+- 👋 Hi, I’m Edward kagho
+- 👀 I’m interested in computer animation, programming, games, and Computer science.
+- 🌱 I’m currently learning C++, and Python.
 - 💞️ I’m looking to collaborate on various projects and open to new opportunities.
-- 📫 How to reach me: [ogkagho@icloud.com]
+- 📫 How to reach me: [ogkagho@icloud.com] or [ogkagho@yahoo.com]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
 
-<!---
-Ogkagho/Ogkagho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💼 I'm looking for a job: Currently seeking opportunities to gain hands-on experience in software development. I have intermediate proficiency in Python and am working to enhance my skills in C++. Although I'm still refreshing my knowledge of C++ syntax, I'm eager to learn and take on new challenges.
 
-- 💼 I'm looking for a job:
-  > "Excuse me, I'm looking for a job. In fact, I've made up my mind to find a career that I can learn and grow into. Who am I? I'm a hard worker, I set high goals, and I've been told that I am persistent. Now, I'm not fooling myself. Having been raised with the self-esteem movement so popular in schools, I used to expect my needs to be considered. But I know that today's work culture no longer caters to the job loyalty that could be promised to earlier generations. What I believe is that good things come to those who work hard. And that people who reached the top of their fields didn't just fall there. My motto is if you want to win the lottery, you have to make the effort to buy a ticket."
+Skills:
+Programming Languages: Python, C++ (intermediate)
+Projects: Check out my repositories for examples of my work and projects.
+Learning: Actively improving my coding skills and looking to expand into areas like software engineering, data analysis, and game development.
+My Goal:
+I'm motivated to apply my programming skills in a practical environment, contribute to real-world projects, and grow as a developer. I'm open to internships, junior developer roles, or any position where I can learn and contribute!
+
+Feel free to reach out if you have any opportunities or just want to connect!
   
