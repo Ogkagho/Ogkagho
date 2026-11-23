@@ -1,19 +1,9 @@
-- 👋 Hi, I’m Edward kagho
-- 👀 I’m interested in computer animation, programming, games, and Computer science.
-- 🌱 I’m currently learning C++, and Python.
-- 💞️ I’m looking to collaborate on various projects and open to new opportunities.
-- 📫 How to reach me: [ogkagho@icloud.com] or [ogkagho@yahoo.com]
-- 😄 Pronouns: he/him
-- ⚡ Fun fact:
+### Hi, I'm Edward Kagho 👋
 
-- 💼 I'm looking for a job: Currently seeking opportunities to gain hands-on experience in software development. I have intermediate proficiency in Python and am working to enhance my skills in C++. I'm eager to learn and take on new challenges.
+I'm a 5th-semester **Computer Science student Living in Kraków, Poland**, focused on **Python programming, algorithms, and problem-solving**. 
 
-Skills:
-Programming Languages: Python, C++
-Projects: Check out my repositories for examples of my work and projects.
-Learning: Actively improving my coding skills and looking to expand into areas like software engineering, data analysis, and game development.
-My Goal:
-I'm motivated to apply my programming skills in a practical environment, contribute to real-world projects, and grow as a developer. I'm open to internships, junior developer roles, or any position where I can learn and contribute!
+- 🔭 **Currently working on:** Building practical Python automation and data-handling tools
+- 🧠 **Core focus:** Python, Data Structures, Algorithms, and Git workflows
+- 💼 **Open to:** Internships and junior roles in Software Development, QA Testing, Data, or IT Support
+- 📫 **Reach me:** [ogkagho@yahoo.com]
 
-Feel free to reach out if you have any opportunities or just want to connect!
-  
